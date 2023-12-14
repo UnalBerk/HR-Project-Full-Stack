@@ -10,8 +10,7 @@ You can access the promotional video of the project from this link.
 
 ### Architecture
 
-<img src="https://github.com/onurbass/HR-Project_Full-Stack/blob/main/HR-Project-Spring/src/main/resources/images/cloud-architecture.jpg?rav=true" alt="Icon" >
-
+<img src="https://github.com/UnalBerk/Hr-Project-Full-Stack/blob/main/HR-Project-Spring/src/main/resources/images/cloud-architecture.jpg?rav=true" alt="Icon" >
 ### About the Project
 
 This human resources application encompasses four different roles: admin, company manager, employee, and guest. Each role is equipped with a control panel, profile, and pages designed for their respective tasks.
